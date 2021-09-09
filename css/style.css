@@ -160,6 +160,7 @@ img {
 
 .view-btn {
   margin-top: 70px;
+  margin-bottom: 50px;
   padding: 15px 35px;
   font-family: var(--font-kaisei);
   text-decoration: none;
